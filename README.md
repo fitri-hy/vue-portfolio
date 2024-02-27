@@ -1,6 +1,8 @@
-# vue-portfolio
+# Vue Portfolio
 
-This template should help get you started developing with Vue 3 in Vite.
+<img src="./Screenshot 2024-02-27 225747.png"/>
+
+This is an example of a Vue 3 + Tailwind template in Vite.
 
 ## Recommended IDE Setup
 
@@ -27,3 +29,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+Follow Me: <a href="https://hy-tech.my.id/">FOLLOW</a>
