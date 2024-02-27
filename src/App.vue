@@ -45,9 +45,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 <template>
-  <head>
-    <link rel="stylesheet" href="https://cdn.tailgrids.com/tailgrids-fallback.css" />
-  </head>
   <Navbar />
   <RouterView />
 </template>
